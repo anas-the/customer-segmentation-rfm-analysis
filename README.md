@@ -65,13 +65,13 @@ Weekly retention was tracked for customers grouped by the week of their first pu
 ## Visualizations
 
 **Revenue Share by Customer Segment**
-![Segment Revenue](charts/segment_revenue_chart.png)
+![Segment Revenue](Charts/segment_revenue_chart.png)
 
 **Customer Share vs Revenue Share**
-![Customer vs Revenue Share](charts/customer_vs_revenue_share_chart.png)
+![Customer vs Revenue Share](Charts/customer_vs_revenue_share_chart.png)
 
 **Weekly Cohort Retention Heatmap**
-![Cohort Retention Heatmap](charts/cohort_retention_heatmap.png)
+![Cohort Retention Heatmap](Charts/cohort_retention_heatmap.png)
 
 ---
 
